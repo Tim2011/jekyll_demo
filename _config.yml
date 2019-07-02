@@ -1,2 +1,3 @@
 baseurl: /jekyll_demo
-posts: /jekyll_demo/_posts
+posts: 
+  - 2019-07-01.html
